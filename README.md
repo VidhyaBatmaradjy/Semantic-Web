@@ -23,7 +23,7 @@ Bonus: This query to the local ontology answers a question that cannot be answer
 1. Onto Graph
 a) Generic view
 
-![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/onto_graph.png)
+![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/onto_graph1.png)
 
 
 2. Classes
