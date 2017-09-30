@@ -22,22 +22,22 @@ Bonus: This query to the local ontology answers a question that cannot be answer
 
 1. Onto Graph
 a) Generic view
-![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/onto_graph.png)
 
-1. Onto Graph
-a) Generic view
 ![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/onto_graph.png)
 
 
 2. Classes
-![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/onto_graph.png)
+
+![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/classes.png)
 
 
 3. Object Properties
+
 ![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/object_properties.png)
 
 
 4. Data Properties
+
 ![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/data_properties.png)
 
 
