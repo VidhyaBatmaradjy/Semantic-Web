@@ -1,2 +1,2 @@
 # Semantic-Web
-Ontology Construction for book search
+Master's mini project: Ontology Construction for book search
