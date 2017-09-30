@@ -20,7 +20,7 @@ Bonus: This query to the local ontology answers a question that cannot be answer
 • Movie release date
 • IMDB review link for the movie.
 
-![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/screenshots/onto_graph.png)
+![alt text](https://github.com/VidhyaBatmaradjy/Semantic-Web/blob/master/screenshots/onto_graph.png)
  
 SECTION 2
 Challenges Faced
