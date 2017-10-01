@@ -1,8 +1,6 @@
 import logging
 import rdflib
 
-#from _pyio import open
-
 # configuring logging
 logging.basicConfig()
 
